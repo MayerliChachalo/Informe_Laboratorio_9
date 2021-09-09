@@ -8,8 +8,8 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Rosero Andres
 
 **Objetivo general**
 
-Realizar operaciones aritméticas con números complejos, tanto en su forma polar
-como rectangular.
+Realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular.
+
 **Objetivos Específicos**
 
 ## 2.  MARCO TEORICO
@@ -17,15 +17,14 @@ como rectangular.
 
 ## 3. REQUISITOS PREVIOS.
 
-Investigue: el concepto de fasor en su forma rectangular y polar. Así mismo su
-representación gráfica.
+Investigue: el concepto de fasor en su forma rectangular y polar. Así mismo su representación gráfica.
+
+Un fasor es un número complejo que representa la magnitud y la fase de una senoide.
+
 
 ## 4. INFORMACIÓN GENERAL
 
-Los números complejos permiten realizar operaciones matemáticas con
-cantidades fasoriales y son muy útiles en el análisis de circuitos de ca. Con el sistema de
-los números complejos se puede sumar, restar, multiplicar y dividir cantidades que tienen
-tanto magnitud como ángulo.
+Los números complejos permiten realizar operaciones matemáticas con cantidades fasoriales y son muy útiles en el análisis de circuitos de ca. Con el sistema de los números complejos se puede sumar, restar, multiplicar y dividir cantidades que tienen tanto magnitud como ángulo.
 
 ## 5. MATERIALES
 
