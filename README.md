@@ -12,9 +12,9 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 
 **Objetivos Específicos**
 
--Conocer la importancia y la aplicación de fasores en circuitos eléctricos de corrientealterna.
+- Conocer la importancia y la aplicación de fasores en circuitos eléctricos de corrientealterna.
 
--Resolver problemas de circuitos eléctricos utilizando fasores y diagramas fasoriales.
+- Resolver problemas de circuitos eléctricos utilizando fasores y diagramas fasoriales.
 
 ## 2.  MARCO TEORICO
 
@@ -76,9 +76,9 @@ d) 45 | -117.9° =
 
 ## 8.  CONCLUCIONES
 
--Los fasores se utilizan directamente en ingeniería eléctrica, óptica, ingeniería de telecomunicaciones y acústica. La longitud del fasor da la amplitud y el ángulo entre el mismo y el eje-x la fase angular. Debido a las propiedades de la matemática de oscilaciones, en electrónica los fasores se utilizan habitualmente en el análisis rudimentario de circuitos en AC. Finalmente, los fasores pueden ser utilizados para describir el movimiento de un oscilador.
+- Los fasores se utilizan directamente en ingeniería eléctrica, óptica, ingeniería de telecomunicaciones y acústica. La longitud del fasor da la amplitud y el ángulo entre el mismo y el eje-x la fase angular. Debido a las propiedades de la matemática de oscilaciones, en electrónica los fasores se utilizan habitualmente en el análisis rudimentario de circuitos en AC. Finalmente, los fasores pueden ser utilizados para describir el movimiento de un oscilador.
 
--La fase angular de la tensión en una red eléctrica tiene especial interés, entre otras cosas, en la gestión de sistemas eléctricos, debido a que el flujo de potencia reactiva en una línea eléctrica es proporcional al coseno de la diferencia de fase entre las tensiones en los dos terminales de la línea.
+- La fase angular de la tensión en una red eléctrica tiene especial interés, entre otras cosas, en la gestión de sistemas eléctricos, debido a que el flujo de potencia reactiva en una línea eléctrica es proporcional al coseno de la diferencia de fase entre las tensiones en los dos terminales de la línea.
 
 ## 9.  BIBLIOGRAFÍA
 
