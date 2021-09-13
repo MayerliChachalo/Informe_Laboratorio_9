@@ -12,6 +12,10 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 
 **Objetivos Específicos**
 
+-Conocer la importancia y la aplicación de fasores en circuitos eléctricos de corrientealterna.
+
+-Resolver problemas de circuitos eléctricos utilizando fasores y diagramas fasoriales.
+
 ## 2.  MARCO TEORICO
 
 
