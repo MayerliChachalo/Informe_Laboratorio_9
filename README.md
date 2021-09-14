@@ -60,6 +60,8 @@ b) 28.7 | 135° =
 
 c) 11.2 | 28° =
 
+![image](https://user-images.githubusercontent.com/75383758/133254613-4848216c-1eab-465c-b5c8-6b6f3e89814d.png)
+
 d) 45 | -117.9° =
 
 6.3 Realice las siguientes operaciones paso a paso y represente el resultafo en su forma rectangular como en su forma polar 
