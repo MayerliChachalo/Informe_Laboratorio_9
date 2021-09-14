@@ -69,7 +69,7 @@ b) 28.7 | 135° =
 
 c) 11.2 | 28° =
 
-![image](https://user-images.githubusercontent.com/75383758/133254613-4848216c-1eab-465c-b5c8-6b6f3e89814d.png)
+![image](https://user-images.githubusercontent.com/75383758/133258838-2989cb0f-c2c1-4501-86d9-c38a485c2179.png)
 
 d) 45 | -117.9° =
 
