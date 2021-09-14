@@ -64,6 +64,8 @@ c) 11.2 | 28° =
 
 d) 45 | -117.9° =
 
+![image](https://user-images.githubusercontent.com/75383758/133254774-b0f4673c-9cf4-4f1e-8bb5-8963ae639bc7.png)
+
 6.3 Realice las siguientes operaciones paso a paso y represente el resultafo en su forma rectangular como en su forma polar 
 
 ![image](https://user-images.githubusercontent.com/85126275/133110929-2445a2d9-6879-442a-adfe-e2688d51b3f2.png)
