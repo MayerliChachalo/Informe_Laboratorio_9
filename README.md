@@ -69,11 +69,11 @@ b) 28.7 | 135° =
 
 c) 11.2 | 28° =
 
-![image](https://user-images.githubusercontent.com/75383758/133258838-2989cb0f-c2c1-4501-86d9-c38a485c2179.png)
+![image](https://user-images.githubusercontent.com/75383758/133259096-795c9cbc-10a5-41b4-bc65-f49ad7c7d783.png)
 
 d) 45 | -117.9° =
 
-![image](https://user-images.githubusercontent.com/75383758/133254774-b0f4673c-9cf4-4f1e-8bb5-8963ae639bc7.png)
+![image](https://user-images.githubusercontent.com/75383758/133259028-bbe49459-b66f-483b-b91e-8e05d2f0436b.png)
 
 6.3 Realice las siguientes operaciones paso a paso y represente el resultafo en su forma rectangular como en su forma polar 
 
