@@ -91,6 +91,7 @@ d) 45 | -117.9° =
 
 6.4 Resuelva las operaciones por medio de la calculadora y compare resultados 
 
+![image](https://user-images.githubusercontent.com/85126275/133265273-94f9e274-d28f-4fae-b909-404bffdf66d9.png)
 
 ## 7.  VIDEO
 
