@@ -52,6 +52,8 @@ d) -6 – 3.2 j =
 
 a) 36 | -10° =
 
+![image](https://user-images.githubusercontent.com/75383758/133254205-dfa1a8ba-0276-4c12-af94-ea5812e0d9f7.png)
+
 b) 28.7 | 135° =
 
 c) 11.2 | 28° =
