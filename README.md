@@ -18,7 +18,6 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 
 ## 2.  MARCO TEORICO
 
-![Blank diagram](https://user-images.githubusercontent.com/75383758/133256680-d373539f-6c5e-46b3-9e71-963cdb302270.png)
 
 ## 3. REQUISITOS PREVIOS.
 
@@ -43,11 +42,19 @@ Los números complejos permiten realizar operaciones matemáticas con cantidades
 
 a) 2 + 3 j =
 
+![image](https://user-images.githubusercontent.com/85126275/133256675-c322ec46-f0c4-4908-ae5e-599948dc02bd.png)
+
 b) -8 + 6.2 j =
+
+![image](https://user-images.githubusercontent.com/85126275/133256701-b1a1ee50-e014-4d02-b7d0-737be0fa9100.png)
 
 c) 4.3 – 2.8 j =
 
+![image](https://user-images.githubusercontent.com/85126275/133256856-4d9d94c5-ef85-40b3-955b-56987356ab04.png)
+
 d) -6 – 3.2 j =
+
+![image](https://user-images.githubusercontent.com/85126275/133256876-acd616f9-6323-4510-b265-707beb4e4217.png)
 
 6.2 Transforme a su forma rectangular 
 
