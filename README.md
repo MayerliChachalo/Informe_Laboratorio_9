@@ -18,6 +18,7 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 
 ## 2.  MARCO TEORICO
 
+![Blank diagram](https://user-images.githubusercontent.com/75383758/133256680-d373539f-6c5e-46b3-9e71-963cdb302270.png)
 
 ## 3. REQUISITOS PREVIOS.
 
