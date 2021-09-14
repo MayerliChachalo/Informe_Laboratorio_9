@@ -62,12 +62,15 @@ d) 45 | -117.9° =
 
 ![image](https://user-images.githubusercontent.com/85126275/133110929-2445a2d9-6879-442a-adfe-e2688d51b3f2.png)
 
+![image](https://user-images.githubusercontent.com/85126275/133177843-352014b0-0ac1-404a-9442-7a82801f4af9.png)
 
 ![image](https://user-images.githubusercontent.com/85126275/132699458-e85e098f-268a-4d7b-a146-8357ebb91e5e.png)
 
+![image](https://user-images.githubusercontent.com/85126275/133178306-32a810e1-f84e-4fe9-921f-51a99f447401.png)
 
 ![image](https://user-images.githubusercontent.com/85126275/132699525-fe88fe5b-adc7-4255-8d3b-91be1c599603.png)
 
+![image](https://user-images.githubusercontent.com/85126275/133178517-2def1ff2-1db9-4d5c-bccb-a797991c5a01.png)
 
 6.4 Resuelva las operaciones por medio de la calculadora y compare resultados 
 
