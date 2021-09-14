@@ -56,6 +56,8 @@ a) 36 | -10° =
 
 b) 28.7 | 135° =
 
+![image](https://user-images.githubusercontent.com/75383758/133254381-a1b921b3-1255-4665-923e-a2a23ce660d8.png)
+
 c) 11.2 | 28° =
 
 d) 45 | -117.9° =
