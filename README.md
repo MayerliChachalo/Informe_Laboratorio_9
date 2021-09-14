@@ -60,7 +60,7 @@ d) 45 | -117.9° =
 
 6.3 Realice las siguientes operaciones paso a paso y represente el resultafo en su forma rectangular como en su forma polar 
 
-![image](https://user-images.githubusercontent.com/85126275/132699411-ba310f91-536d-4741-90af-17ba08e01ef0.png)
+![image](https://user-images.githubusercontent.com/85126275/133110929-2445a2d9-6879-442a-adfe-e2688d51b3f2.png)
 
 
 ![image](https://user-images.githubusercontent.com/85126275/132699458-e85e098f-268a-4d7b-a146-8357ebb91e5e.png)
