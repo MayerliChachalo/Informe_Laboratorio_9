@@ -93,4 +93,5 @@ d) 45 | -117.9° =
 
 ## 9.  BIBLIOGRAFÍA
 
+Gutiérrez, O., & completo, V. (2021). 1.2.- Fasores.. Circuitoselectricosac.blogspot.com. Retrieved 14 September 2021, from http://circuitoselectricosac.blogspot.com/p/12-fasores.html.
 
